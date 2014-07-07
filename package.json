@@ -1,0 +1,24 @@
+{
+  "name": "koa-logger-display",
+  "version": "1.0.0",
+  "description": "Simple module that allows you to change the output of koa-logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/joaquimserafim/koa-logger-display.git"
+  },
+  "keywords": [
+    "koa",
+    "logger",
+    "display"
+  ],
+  "author": "@joaquimserafim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaquimserafim/koa-logger-display/issues"
+  },
+  "homepage": "https://github.com/joaquimserafim/koa-logger-display"
+}
