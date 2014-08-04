@@ -1,6 +1,6 @@
 {
   "name": "koa-logger-display",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Simple module that allows you to change the output of koa-logger",
   "main": "index.js",
   "scripts": {
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/joaquimserafim/koa-logger-display/issues"
   },
-  "homepage": "https://github.com/joaquimserafim/koa-logger-display"
+  "homepage": "https://github.com/joaquimserafim/koa-logger-display",
+  "dependencies": {
+    "chalk": "^0.5.1"
+  }
 }
